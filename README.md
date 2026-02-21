@@ -1,38 +1,3 @@
-Hanok-sales-data-analysis(Interactive Dashboard Creation using Microsoft Excel)
-
-Project Overview:
-
-An interactive sales analytics dashboard built in Microsoft Excel, featuring dynamic filters, KPI cards, and multiple chart visualizations to analyze sales data across products, locations, and time periods.
-Features
-Interactive Filters/Slicers
-
-Date filter with timeline slicer (monthly view for 2020)
-Place filter with 6 locations: Bapatla, Chirala, Guntur, Ongole, Tenali, Vijayawada
-Product filter with 6 categories: 4K LED TVs, Furniture, Laptops, LED TVs, Mobiles, Speakers
-
-KPI Cards:
-
-Total Amount: ₹1,18,731,893
-Total Sales: 278 transactions
-
-Visualizations:
-
-Sales by Months — Line chart showing monthly sales trends (Jan–Dec)
-Sales by Places — Bar chart comparing revenue across all 6 cities (Tenali leading at ₹4,10,54,876)
-Sales of Products — Horizontal bar chart showing product-wise percentage contribution (Laptops 41.03%, 4K LED TVs 39.44% as top performers)
-
-Workbook Structure:
-
-Multiple sheets: Master Data, Dashboard, Products, Salesmans, About, Pivot Tables
-
-Tools & Techniques Used:
-
-Excel Pivot Tables & Pivot Charts
-Slicers & Timeline filters
-KPI Card design using shapes
-Data visualization (line, bar, horizontal bar charts)
-Multi-sheet workbook architecture
-Navigation buttons (Dashboard, Products, Salesman, About)
 
 
 # 📊 Excel Sales Analytics Dashboard
@@ -142,9 +107,9 @@ Navigation buttons (Dashboard, Products, Salesman, About)
 
 ## 👤 Author
 
-**Your Name**  
-📧 your-email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+**Athota Hanok**  
+📧 athotahanok2@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/athota-hanok-a612a0231/) | [GitHub](https://github.com/hanok3)
 
 ---
 
