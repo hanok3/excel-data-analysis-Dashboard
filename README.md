@@ -91,7 +91,7 @@
    ```bash
    git clone https://github.com/hanok3/excel-data-analysis-Dashboard
    ```
-2. Open the file `Excel Dashboard Practice File.xlsx` in Microsoft Excel
+2. Open the file `Microsoft Excel Worksheet (.xlsx)` in Microsoft Excel
 3. Navigate using the buttons on the left: **Dashboard**, **Products**, **Salesman**, **About**
 4. Use the **Date**, **Place**, and **Products** slicers to filter data dynamically
 5. All charts and KPI cards will update automatically based on your selection
