@@ -89,7 +89,7 @@
 
 1. **Clone or Download** this repository
    ```bash
-   git clone https://github.com/your-username/excel-sales-dashboard.git
+   git clone https://github.com/hanok3/excel-data-analysis-Dashboard
    ```
 2. Open the file `Excel Dashboard Practice File.xlsx` in Microsoft Excel
 3. Navigate using the buttons on the left: **Dashboard**, **Products**, **Salesman**, **About**
